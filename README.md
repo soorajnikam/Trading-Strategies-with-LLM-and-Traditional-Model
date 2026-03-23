@@ -13,7 +13,7 @@ The system integrates **financial data, news sentiment, and predictive modeling*
 ##  Key Features
 
 * 1. Real-time data collection from Yahoo Finance
-* 2.News sentiment analysis using **FinBERT** & **RoBERTa**
+* 2. News sentiment analysis using **FinBERT** & **RoBERTa**
 * 3. Machine learning models for prediction (SVM, Naive Bayes, LSTM)
 * 4. Backtesting with trading metrics (Win Rate, Profit Factor, Net Profit)
 * 5. Hybrid model combining sentiment + ML predictions
